@@ -1,6 +1,7 @@
 {
   "author": "Riyan Imam",
   "title": "A Hackathon For Panthers: PantherHacks!",
+  "thumbnail": "pantherhacks.jpg",
   "date": "2016-11-05T06:40:35Z",
   "tags": ["all"],
   "published": true
