@@ -3,13 +3,22 @@ Blog posts from PH for PH and the rest of the world :)
 
 Formating of blog posts:
 
-When you first make a blog post make sure to have a JSON header stating your name, title of your blog post, date, tags, and publication. 
+When you first make a blog post make sure to have a JSON header stating your name, title of your blog post, thumbnail, date, tags, and  publication in that order. 
 The JSON should also be contained in brackets. An example of this is down below. 
 
-{ "author": "Riyan Imam", "title": "HackATL: Busy Making Businesses!", "date": "2016-11-08T23:35:24Z", "tags": ["all"], "published": true
-
+{  
+"author": "Riyan Imam",
+"title": "A Hackathon For Panthers: PantherHacks!",
+"thumbnail": "pantherhacks.jpg",
+"date": "2016-11-05T06:40:35Z",
+"tags": ["all"],
+"published": true
 }
 
-After you finished setting up your JSON header make sure to have three dashes and write your content of your blog post in Markdown. At the end of your blog post you should a have a dash and your full name written. An example of this is down below. 
+After you finished setting up your JSON header and entering three dashes ("---"), make sure you add another new line and enter the content of your blog post.
 
--Abele Amsalu
+When you start typing your blog post, make sure it is written in Markdown. Here are some links to help you with getting started in Markdown :
+
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+* https://en.support.wordpress.com/markdown-quick-reference/
