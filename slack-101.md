@@ -1,6 +1,7 @@
 {
   "author": "Aimee Vu",
   "title": "Slack 101",
+  "thumbnail": "slack101.png",
   "date": "2017-02-02T20:30:24Z",
   "tags": ["all"],
   "published": true

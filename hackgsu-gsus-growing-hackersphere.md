@@ -1,6 +1,7 @@
 {
   "author": "Riyan Imam",
   "title": "hackGSU: GSU’s Growing Hackersphere!",
+  "thumbnail": "hackgsu.jpg",
   "date": "2016-10-26T21:12:18Z",
   "tags": ["all"],
   "published": true

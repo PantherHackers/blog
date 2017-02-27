@@ -1,6 +1,7 @@
 {
   "author": "Riyan Imam",
   "title": "The Fall PH Finale: Hackers Know How To Have A “Bash” Too!!!",
+  "thumbnail": "end_of_semester_bash.jpg",
   "date": "2016-11-18T01:34:12Z",
   "tags": ["all"],
   "published": true

@@ -1,6 +1,7 @@
 {
   "author": "Riyan Imam",
   "title": "Big Data: Big Potential!!!",
+  "thumbnail": "big_data.jpg",
   "date": "2016-10-28T03:44:49Z",
   "tags": ["all"],
   "published": true
