@@ -1,6 +1,7 @@
 {
   "author": "Aimee Vu",
   "title": "Starting Off Strong",
+  "thumbnail": "workshops.png",
   "date": "2017-01-25T20:11:41Z",
   "tags": ["all"],
   "published": true

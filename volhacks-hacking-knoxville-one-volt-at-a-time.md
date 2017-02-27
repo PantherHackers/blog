@@ -1,6 +1,7 @@
 {
   "author": "Aimee Vu",
   "title": "VolHacks: Hacking Knoxville One “Volt” At A Time",
+  "thumbnail": "volhacks.jpg",
   "date": "2016-10-03T17:15:53Z",
   "tags": ["all"],
   "published": true

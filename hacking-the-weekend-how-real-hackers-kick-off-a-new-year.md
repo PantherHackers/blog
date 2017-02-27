@@ -1,6 +1,7 @@
 {
   "author": "Riyan Imam",
   "title": "Hacking the Weekend: How Real Hackers Kick-Off A New Year!!!",
+  "thumbnail": "hacking_weekend.jpg",
   "date": "2017-01-31T19:21:58Z",
   "tags": ["all"],
   "published": true

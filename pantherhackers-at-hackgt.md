@@ -1,6 +1,7 @@
 {
   "author": "Aimee Vu",
   "title": "PantherHackers at HackGT",
+  "thumbnail": "hackgt.png",
   "date": "2016-09-27T01:08:25Z",
   "tags": ["all"],
   "published": true
