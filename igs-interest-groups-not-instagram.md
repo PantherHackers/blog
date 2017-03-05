@@ -32,7 +32,7 @@ With these questions, we got some great insight into how things are running with
 **PH Ladies:** We strive to improve self-efficacy in women by bringing in speakers and just in general, talking about adversity and overcoming it.
 **NetSec:** We teach out participants a variety of different topics, going over and discussing different topics each time we meet.
 
-[![gamedevmeeting](http://pantherhackers.com/wp-content/uploads/2016/10/gamedevmeeting-300x300.jpg)](http://pantherhackers.com/wp-content/uploads/2016/10/gamedevmeeting.jpg)
+![gamedevmeeting](http://imgur.com/MWKjXFJ)
 
 **_How do you think your participants are doing so far?_**
 
@@ -46,7 +46,7 @@ With these questions, we got some great insight into how things are running with
 **PH Ladies:** We’ve only had one meeting so we can’t be 100% accurate, however, a lot of them are willing to talk to us about their strives in life, and we think that’s super fantastic.
 **NetSec:** We don’t have anything on that thus far, but the conversations have been productive and very insightful.
 
-[![androiddevmeeting](http://pantherhackers.com/wp-content/uploads/2016/10/androiddevmeeting-300x300.jpg)](http://pantherhackers.com/wp-content/uploads/2016/10/androiddevmeeting.jpg)
+![androiddevmeeting](http://imgur.com/zq6I0oW)
 
 **_What are your plans for this IG?_**
 

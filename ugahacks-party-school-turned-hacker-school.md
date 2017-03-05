@@ -17,7 +17,7 @@ The project is based on real-time traffic information where it would wake you de
 As Brian said about winning “feels niiiiiiice” can’t say I would disagree!
 If you would like more information about the project please check it out [here](https://devpost.com/software/ntime)!
 
-[![15002360_367973846871892_281336494077361442_o](http://pantherhackers.com/wp-content/uploads/2016/11/15002360_367973846871892_281336494077361442_o-300x209.jpg)](http://pantherhackers.com/wp-content/uploads/2016/11/15002360_367973846871892_281336494077361442_o.jpg)
+![15002360_367973846871892_281336494077361442_o](http://imgur.com/z9lYsRv)
 
 **Hackadvisor**
 **Team members**: Michael Chung and Kevin Aiken
@@ -27,7 +27,9 @@ When you see these fellow members remember to congratulate them and give em’ a
 
 **Shoutouts**
 Big congratulations to Michael Chung and Kevin Aiken who won 1st place in the cup stacking competition sponsored by MLH. Both won bluetooth speakers.
-[![img_20161105_142127](http://pantherhackers.com/wp-content/uploads/2016/11/IMG_20161105_142127-225x300.jpg)](http://pantherhackers.com/wp-content/uploads/2016/11/IMG_20161105_142127.jpg)
+
+![img_20161105_142127](http://imgur.com/aYquDeo)
+
 It seems that awesome projects and fun seem to shine from PH and its members! Hope to see more in the upcoming hackathons as well!
 
 That’s all from UGAHacks! As Riyan always says “stay hungry”! Till next time!

@@ -13,25 +13,25 @@ If you missed PantherHacks, the hackathon put on by PantherHackers for PantherHa
 
 Doors opened up at 7 PM, Friday, October 28th, 2016 and what a start it was. We had our friends from Panther Entertainment Group (PEG) join us and providing live entertainment. On vocals and guitar, Vette stole the heart of anyone who heard her play and sing. Our DJ for that night, another PEG member, was Ria Washington, who had a great mix of electronica and hip-hop.
 
-[![picture5](http://pantherhackers.com/wp-content/uploads/2016/11/Picture5-200x300.jpg)](http://pantherhackers.com/wp-content/uploads/2016/11/Picture5.jpg)
+![picture5](http://imgur.com/lcyOOvV)
 
 Then it was time to get down to business. For our opening ceremonies, we had speakers Rodney Sampson, the Director of Diversity and Inclusion at TechSquare Labs, and Tiffany Green-Abdullah, PantherHackers’s Senior Advisor, talk about STEAM and the importance of trying to fix this “STEAM desert”, a lack of STEAM-related events in an area or the inability to find such events, starting here in Atlanta. We also heard an amazing speech from our CMO, Jordan Li, who touched on what PantherHackers’s mission is and how this relates to the event.
 
-[![picture6](http://pantherhackers.com/wp-content/uploads/2016/11/Picture6-300x95.jpg)](http://pantherhackers.com/wp-content/uploads/2016/11/Picture6.jpg)
+![picture6](http://imgur.com/q35hAev)
 
 With the opening ceremony finished, the hacking began and things started to heat up. We had food catered from The Spice Rack Atlanta--Indian-style food cooked on-the-go. The chef himself, Manny, prepped all the food to make sure things went (and tasted) as planned. Needless to say, the food was fantastic and a great way to start off the hackathon!
 
-[![picture2](http://pantherhackers.com/wp-content/uploads/2016/11/Picture2-300x140.jpg)](http://pantherhackers.com/wp-content/uploads/2016/11/Picture2.jpg)
+![picture2](http://imgur.com/kfvSl4T)
 
 Around 11 PM PantherHackers created a mentorship group to help out the first-timers in developing their idea and guiding them to the right steps. A little past midnight, most groups had either gone to sleep or gone home for the night.
 
-[![img_2620](http://pantherhackers.com/wp-content/uploads/2016/11/IMG_2620-300x160.jpg)](http://pantherhackers.com/wp-content/uploads/2016/11/IMG_2620.jpg)
+![img_2620](http://imgur.com/VrHH2xX)
 
 Bright and early on Saturday morning, our hackers started to pack TechSquare Labs just in time for breakfast from Tifyn, a catering service. Soon, our hackers were ready to tackle another day. Throughout the day, we had many workshops hosted by our friends from hackGT and Plutonium Apps. HackGT spoke about the importance of the user interface and how to deliver a great pitch while Plutonium Apps focused on the user experience and what makes an app seamless.  
 
 A lot of hacking went on throughout the day, but some hackers took a step back from their computer screens and turned to television instead! PantherHackers’s goal was make this a stress-free event, so what better way than with video games? Thanks to our own Braxton McLean, we were able to put on a Super Smash Brothers tournament. Later on that night, we also hosted a Halloween party! With our partners at A3C providing us with a DJ, and PantherHackers ordering plenty of pizza, it was a great experience for hackers and volunteers alike. During the party, the hackers played games, danced, and even had foam sword battles! All-in-all, it was a great way to close off that Saturday night. TechSquare Labs was closing for the night and everyone was ready to head home and get a good night’s rest.
 
-[![picture8](http://pantherhackers.com/wp-content/uploads/2016/11/Picture8-300x252.jpg)](http://pantherhackers.com/wp-content/uploads/2016/11/Picture8.jpg)
+![picture8](http://imgur.com/mJ6Rwdn)
 
 Sunday was the big day: Judging Day. We had many great ideas pitched and we would like a chance to recognize all of the teams who demoed:
 
@@ -47,18 +47,18 @@ Name of Idea: Potenza (First Place Winners)
 Team Members: Aaron Via, Ned Anderson (Perimeter), Jay Strickland (Perimeter), Steve Bravo (Perimeter), David Pham (Perimeter)
 What did your idea accomplish/ do? “Establishes online resource library of STEAM related courses along with a networking community of Teachers and Learners. The platform is used by facilitators to provide information to students and groups. This allows for student engagement with their peers inside and outside of the classroom.”
 
-[![picture11](http://pantherhackers.com/wp-content/uploads/2016/11/Picture11-300x223.jpg)](http://pantherhackers.com/wp-content/uploads/2016/11/Picture11.jpg)
+![picture11](http://imgur.com/Sz6Amtq)
 
 Name of Idea: CloudBits (Second Place Winner) Team Members: Josh King, Pranathi Venigandla, Alex Mitchel, Daniel Dakev, and Haroon Qahtan
 What did your idea accomplish/ do? "Our idea was to create a platform that gathered all STEAM-related resources and put them together in one place. We tried to make this idea more better by implementing a social aspect to it. Users can click on STEAM events and tell others if they are going, they can also join group chats made for these events so they can discuss things about the event before, during, and after the event. We are trying to build a community around STEAM related events so that people are more motivated to attend them since their other friends are going too."
 
-[![picture10](http://pantherhackers.com/wp-content/uploads/2016/11/Picture10-300x207.jpg)](http://pantherhackers.com/wp-content/uploads/2016/11/Picture10.jpg)
+![picture10](http://imgur.com/ci4VhZZ)
 
 Name of Idea: Compi
 Team Members: Yassin Alsahlani, Mazen Mohamed, Daran Hall, Ikram (Third Place Winners)
 What will your idea accomplish/ do? “The app rewarded the user for going to STEAM events and participating. They could Redeem those points for Compi tokens that will allow them to purchase tech equipment.”
 
-[![picture9](http://pantherhackers.com/wp-content/uploads/2016/11/Picture9-300x200.jpg)](http://pantherhackers.com/wp-content/uploads/2016/11/Picture9.jpg)
+![picture9](http://imgur.com/V4R0nxV)
 
 Thanks to everyone who volunteered and competed in PatherHacks! Here at PantherHackers, we like to reflect on what we have done, what we have accomplished, and what we can do better in the future. We sat down with PantherHackers’s Senior Advisor, Tiffany Green-Abdullah, in order to see what we as an organization have accomplished while also seeing what we can improve:
 

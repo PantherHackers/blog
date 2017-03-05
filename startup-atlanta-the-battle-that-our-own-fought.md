@@ -15,10 +15,13 @@ On Thursday, October 27, 2016, Ahmed Zahran, Luis Ferrer, Sara Yeh, and Alex Bla
 
 **What was your experience?**
 "I have to say, the wealth of knowledge that I garnered from participating in ASB was far beyond anything I would have or could have learned about in school. In retrospect, I would have to say that the mentoring session was my favorite. It was hard to listen to smart people ask daunting questions and break down our idea, but that was also the most learning part of the experience. After we had known our breaking points, it was much easier to recover and make our service stronger."
-[![uPet and PantherHackers](https://t7vn2w-bn1306.files.1drv.com/y3muyDc27A4w3QRANSpNbyyP8au_ygDCJjoi90UH5yjkcqPE2O8Oo9Xg3YPFsJFbkmfTjcW1cYQPWSFnmxlQAk3vb6nW-CB7uRl_UR5G6HmUWAO8pmJ0CtR3C7SWzNxX-7GFcTQGDq2fYs81nltJI6TbUrEfVwisnuL4nFbhNaJfWSdlGFWCtNMvpsY4d8NtHHY/DSCF0472.JPG?psid=1)](https://t7vn2w-bn1306.files.1drv.com/y3muyDc27A4w3QRANSpNbyyP8au_ygDCJjoi90UH5yjkcqPE2O8Oo9Xg3YPFsJFbkmfTjcW1cYQPWSFnmxlQAk3vb6nW-CB7uRl_UR5G6HmUWAO8pmJ0CtR3C7SWzNxX-7GFcTQGDq2fYs81nltJI6TbUrEfVwisnuL4nFbhNaJfWSdlGFWCtNMvpsY4d8NtHHY/DSCF0472.JPG?psid=1)
+
+![uPet and PantherHackers](http://imgur.com/bTB4yek)
 
 **What advice do you have for others?** "The thing I learned the most about that I would like to leave with others is this: chase criticisms, learn from them, and pivot! Pivot! Pivot! You’re not supposed to get it right the first time, and even though being told that you are wrong is hard, it’s also what makes you learn, change and become stronger."
-[![uPet Team](https://t7vn2w-bn1306.files.1drv.com/y3mEzqpxbAyigMTVtkqwOLVUOpf021F33F6ZUp00loF9dXnzqsAU_7UZkX0_lSFsbujffx-oiE36F-AUXllUg_akzP5dCUWFe7ybu-SimbarLO0dvA1J8Kf-6G3OMhTnNQe-i4W6KpTt7QjuE3aNIer3KBCYaNVcU6KN_VCwJCFGi6Ecl7HNAD1F1N5_zku-9vN/DSCF0420.JPG?psid=1)](https://t7vn2w-bn1306.files.1drv.com/y3mEzqpxbAyigMTVtkqwOLVUOpf021F33F6ZUp00loF9dXnzqsAU_7UZkX0_lSFsbujffx-oiE36F-AUXllUg_akzP5dCUWFe7ybu-SimbarLO0dvA1J8Kf-6G3OMhTnNQe-i4W6KpTt7QjuE3aNIer3KBCYaNVcU6KN_VCwJCFGi6Ecl7HNAD1F1N5_zku-9vN/DSCF0420.JPG?psid=1)
+
+![uPet Team](http://imgur.com/kklIVRh)
+
 Make sure you congratulate the team when you see them! They went above and beyond and are leading examples of what we try to accomplish here at PantherHackers!
 
 As always, stay hungry!

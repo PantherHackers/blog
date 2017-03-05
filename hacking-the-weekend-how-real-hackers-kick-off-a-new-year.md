@@ -11,7 +11,7 @@ Hello Hacker, Hustlers, and Hipsters!
 Just over a couple of weekends ago, we had a slew of events that occurred:
 Global Game Jam, SwampHacks, and PennApps!  Global Game Jam, held at Aderhold Learning Center, is an event where, like a hackathon, people create a project in order to gain the judge’s appeal. However, the difference here is that the participants make a game! We had many great submissions, but only two made the top cut.
 
-[![global-game-jam-e1452551722845](http://pantherhackers.com/wp-content/uploads/2017/01/global-game-jam-e1452551722845-300x129.jpg)](http://pantherhackers.com/wp-content/uploads/2017/01/global-game-jam-e1452551722845.jpg)
+![global-game-jam-e1452551722845](http://imgur.com/y2WSwAb)
 
 **Winner of GGJ at GSU:** WaveDash
 **Creators:** Chris Antepenko, Zane Smith and Nathan Brown
@@ -23,15 +23,15 @@ Global Game Jam, SwampHacks, and PennApps!  Global Game Jam, held at Aderhold Le
 
 Congratulations to the winners and thank you all for participating! Also, a big thanks to the sponsors Terminus, TripWire, and Rezli for helping out with the event as well. Last but not least, a HUGE round of applause to Jay O’Toole, the organizer of the event.
 
-[![gam_jam_banner-02](http://pantherhackers.com/wp-content/uploads/2017/01/gam_jam_banner-02-300x141.png)](http://pantherhackers.com/wp-content/uploads/2017/01/gam_jam_banner-02.png)
+![gam_jam_banner-02](http://imgur.com/woKDHC9)
 
 For PennApps, we had our own Ahmed Hrishit, Harsha Goli and Sri Rajasekaran attend! They definitely made a splash in Pennsylvania. We also attended SwampHacks (thanks to Imanuel Sonubi!) which took place in Florida.  
 
-[![16179129_10208722490962004_3558811225959396701_o](http://pantherhackers.com/wp-content/uploads/2017/01/16179129_10208722490962004_3558811225959396701_o-300x200.jpg)](http://pantherhackers.com/wp-content/uploads/2017/01/16179129_10208722490962004_3558811225959396701_o.jpg)
+![16179129_10208722490962004_3558811225959396701_o](http://imgur.com/k7odkFm)
 
 Of course, we wouldn’t have a weekend of a bunch of events without a PH win! Our own Viraj Shah and Josh King attended a hackathon for 24 hours (thanks to Luis for that!) and took home the grand prize! A big round of applause for them! Made us proud guys!
 
-[![Picture1](http://pantherhackers.com/wp-content/uploads/2017/01/Picture1-2-300x250.jpg)](http://pantherhackers.com/wp-content/uploads/2017/01/Picture1-2.jpg)
+![Picture1](http://imgur.com/exi2JZ9)
 
 Anyways guys, that’s going to be it for us. Stay tuned for a lot more events that we will be hosting and helping with this semester! As always fellas, STAY HUNGRY!
 
