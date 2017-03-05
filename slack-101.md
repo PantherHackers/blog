@@ -41,7 +41,8 @@ _Join channels! Be active!_ On the left sidebar (or pulling out the left menu on
 We kept the list of default channels relatively small so as not to clog up people’s channel feed with things they aren’t interested in, but it feels kind of boring without any other channels. You can rectify that by clicking/tapping on the channel you are interested in, and selecting “Join Channel” at the bottom.
 [![seven](http://pantherhackers.com/wp-content/uploads/2017/02/seven-300x255.png)](http://pantherhackers.com/wp-content/uploads/2017/02/seven.png)
 _Direct Messaging!_ Also on the left sidebar (same instructions as above) there is also the ability to Direct Message fellow Slackers. Clicking the ⊕ next to “DIRECT MESSAGES” allows you to select any member of the Slack team (or multiple) and send them direct messages! Its very handy if you need to get a hold of someone, or a conversation would unnecessarily clog up a channel.
-[![eight](http://pantherhackers.com/wp-content/uploads/2017/02/eight-300x217.png)](http://pantherhackers.com/wp-content/uploads/2017/02/eight.png) You can also DM yourself, where messages you send won’t be deleted and no one else can see them. If you’re looking to keep a quick note, this is a pretty useful space.
+[![eight](http://pantherhackers.com/wp-content/uploads/2017/02/eight-300x217.png)](http://pantherhackers.com/wp-content/uploads/2017/02/eight.png)
+You can also DM yourself, where messages you send won’t be deleted and no one else can see them. If you’re looking to keep a quick note, this is a pretty useful space.
 
 **\# Some Tips**
 1. If you see something that is really funny, when hovering over a message, there is a +☺ button on Desktop where you can add emoji reactions! For mobile users, tap and hold the message and select “Add emoji reaction.” Once there is an emoji reaction, the +☺ is visible on all platforms. Be expressive!
