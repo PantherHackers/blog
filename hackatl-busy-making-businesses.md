@@ -1,6 +1,7 @@
 {
   "author": "Riyan Imam",
   "title": "HackATL: Busy Making Businesses!",
+  "thumbnail": "hackatl.png",
   "date": "2016-11-08T23:35:24Z",
   "tags": ["all"],
   "published": true

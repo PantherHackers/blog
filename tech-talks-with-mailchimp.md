@@ -1,6 +1,7 @@
 {
   "author": "Riyan Imam",
   "title": "Tech Talks: An Evening with MailChimp, PantherHackers, and FOOD!",
+  "thumbnail": "mailchimp_tech_talks.png",
   "date": "2016-10-08T03:58:20Z",
   "tags": ["all"],
   "published": true

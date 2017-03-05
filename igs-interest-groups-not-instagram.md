@@ -1,6 +1,7 @@
 {
   "author": "Riyan Imam",
   "title": "IGs: Interest Groups, Not Instagram!",
+  "thumbnail": "interest_groups.jpg",
   "date": "2016-10-18T18:12:57Z",
   "tags": ["all"],
   "published": true

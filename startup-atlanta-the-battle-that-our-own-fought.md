@@ -1,6 +1,7 @@
 {
   "author": "Riyan Imam",
   "title": "The Atlanta Startup Battle: The Battle That Our Own Fought!",
+  "thumbnail": "startup_battle.jpg",
   "date": "2016-11-02T03:11:05Z",
   "tags": ["all"],
   "published": true

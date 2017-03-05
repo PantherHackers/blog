@@ -1,6 +1,7 @@
 {
   "author": "John Choi",
   "title": "UGAHacks: Party School Turned Hacker School",
+  "thumbnail": "ugahacks.png",
   "date": "2016-11-08T22:52:13Z",
   "tags": ["all"],
   "published": true
