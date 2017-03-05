@@ -18,7 +18,7 @@ The project is based on real-time traffic information where it would wake you de
 As Brian said about winning “feels niiiiiiice” can’t say I would disagree!
 If you would like more information about the project please check it out [here](https://devpost.com/software/ntime)!
 
-![15002360_367973846871892_281336494077361442_o](http://imgur.com/z9lYsRv)
+![15002360_367973846871892_281336494077361442_o](http://imgur.com/z9lYsRv.jpg)
 
 **Hackadvisor**
 **Team members**: Michael Chung and Kevin Aiken
@@ -29,7 +29,7 @@ When you see these fellow members remember to congratulate them and give em’ a
 **Shoutouts**
 Big congratulations to Michael Chung and Kevin Aiken who won 1st place in the cup stacking competition sponsored by MLH. Both won bluetooth speakers.
 
-![img_20161105_142127](http://imgur.com/aYquDeo)
+![img_20161105_142127](http://imgur.com/aYquDeo.jpg)
 
 It seems that awesome projects and fun seem to shine from PH and its members! Hope to see more in the upcoming hackathons as well!
 

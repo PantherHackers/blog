@@ -23,23 +23,23 @@ But first, our _rules_! - Members are to set their first and last names on profi
 
 Joining our Slack team is relatively simple (there’s an app, too)! If you are a student or alumnus of GSU and have an authorized student email, you can sign up via the following link: <https://pantherhackers.slack.com/signup> (Don’t have a student email, but feel you have reason to join the Slack? Email us at [executive@pantherhackers.com](mailto:executive@pantherhackers.com))
 
-![one](http://imgur.com/OqFfDhf)
+![one](http://imgur.com/OqFfDhf.jpg)
 
 Slack will send an email to the address you put in, which will direct you to the signup page (It’ll look a little different than the picture but the big green button will be the same).
 
-![two](http://imgur.com/9Jnkkj4)
+![two](http://imgur.com/9Jnkkj4.jpg)
 
 _When you sign up, be sure to fill out your first and last names!_ This is mandatory, accounts created without a first and last name matching the email address provided will be disabled. We suggest you use the same username or something similar (like without the number) as your GSU email. This will be used whenever you sign into the PantherHackers Slack team.
 
-![three](http://imgur.com/CsPWvea)
+![three](http://imgur.com/CsPWvea.jpg)
 
 Select “Next” and enter your password.
 
-![four](http://imgur.com/bhcmu8l)
+![four](http://imgur.com/bhcmu8l.jpg)
 
 Select “Next,” accept the User Agreement Slack requires, and then you have the option of following the tutorial if you are new to Slack.
 
-![five](http://imgur.com/SwbMH8g)
+![five](http://imgur.com/SwbMH8g.jpg)
 
 **\# Setting Up Slack**
 
@@ -53,15 +53,15 @@ _For Desktop users:_ Slack settings are spread across the top bar. In the upper 
 
 _Join channels! Be active!_ On the left sidebar (or pulling out the left menu on mobile by tapping the Panther icon), you’ll find you are already a part of a few channels (like #announcements and #random). If you click or tap on “CHANNELS” it will pull up a list of channels that you aren’t currently a part of.
 
-![six](http://imgur.com/Eb4hNtv)
+![six](http://imgur.com/Eb4hNtv.jpg)
 
 We kept the list of default channels relatively small so as not to clog up people’s channel feed with things they aren’t interested in, but it feels kind of boring without any other channels. You can rectify that by clicking/tapping on the channel you are interested in, and selecting “Join Channel” at the bottom.
 
-![seven](http://imgur.com/rt88fhq)
+![seven](http://imgur.com/rt88fhq.jpg)
 
 _Direct Messaging!_ Also on the left sidebar (same instructions as above) there is also the ability to Direct Message fellow Slackers. Clicking the ⊕ next to “DIRECT MESSAGES” allows you to select any member of the Slack team (or multiple) and send them direct messages! Its very handy if you need to get a hold of someone, or a conversation would unnecessarily clog up a channel.
 
-![eight](http://imgur.com/eB1m2Ht)
+![eight](http://imgur.com/eB1m2Ht.jpg)
 
 You can also DM yourself, where messages you send won’t be deleted and no one else can see them. If you’re looking to keep a quick note, this is a pretty useful space.
 
