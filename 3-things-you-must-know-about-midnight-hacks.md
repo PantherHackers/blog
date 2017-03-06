@@ -9,14 +9,14 @@
 
 ---
 
-##1.  It’s a Phenomenon
+## 1.  It’s a Phenomenon
 
 What comes to mind when you hear the phrase “Overnight Social Hacking”?  These three words are the basis of a new phenomenon on Georgia State’s campus. Midnight Hacks, a monthly event put on by Panther Hackers (PH), was last held on February 24th, 2017 in the new LaunchGSU space. It was wildly successful through the combination of caffeine, coding, and gaming into one 8-hour, overnight experience for students.
 
 Phillip Kinney, sophomore computer science major, was the Event Manager. When recounting the event he said, “The appeal to an overnight event like Midnight Hacks is to be able to collaborate on projects late at night and to do Smash Brothers ‘til the sun comes up.”
 
 
-##2. It’s a Party With You and 30+ of Your Closest Friends
+## 2. It’s a Party With You and 30+ of Your Closest Friends
 
 PH is an inclusive community. New people are always welcome. Things like the Smash Brothers tournament are oriented towards students who want to meet others in a low stress atmosphere.
 
@@ -24,7 +24,7 @@ Imanuel Sonubi, freshman computer science major, when asked about his experience
 
 (http://imgur.com/a/o3tc8)
 
-##3. It’s A Place To Get Stuff Done
+## 3. It’s A Place To Get Stuff Done
 
 Annoying roommates, city sirens, and busy coffee shops all have one thing in common- distraction. Midnight Hacks is curated to produce a positive, constructive environment. The LaunchGSU space was designed with innovation in mind (read: perfect for a fresh focus). Attendees are encouraged to bring their current class or personal project. By utilizing the diverse membership of PH, one can always find assistance if stuck or in need of a second opinion.
 
