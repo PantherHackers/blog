@@ -1,7 +1,6 @@
 {  
   "author": "Kara Dees",
   "title": "3 Things You Must Know About Midnight Hacks",
-  "thumbnail": "http://imgur.com/a/YATmL",
   "date": "2017-03-03T02:15:35Z",
   "tags": ["all"],
   "published": true
@@ -22,7 +21,7 @@ PH is an inclusive community. New people are always welcome. Things like the Sma
 
 Imanuel Sonubi, freshman computer science major, when asked about his experience at Midnight Hacks said, “I had a lot of fun just chilling with members of PH who are like family at this point. I learned about an indie game called 20xx, and also played Dungeon Souls & Smash Brothers.”
 
-(http://imgur.com/a/o3tc8)
+![MH attendees play Super Smash Brothers](http://i.imgur.com/9YUKx7J.jpg)
 
 ## 3. It’s A Place To Get Stuff Done
 
@@ -30,11 +29,11 @@ Annoying roommates, city sirens, and busy coffee shops all have one thing in com
 
 Paul Hansa, sophomore computer science major, shared his insight, "It was a fun, relaxing night getting work done with other hackers I could get help and critique from, and the LaunchGSU was a really productive workspace to do it in."
 
-(http://imgur.com/a/TuNOA)
+![PantherHacker, Harsha, working on a project at Midnight Hacks](http://i.imgur.com/Mz8puqZ.jpg)
 
 Luis Ferrer-Labarca, junior computer science major, offered his perspective as a seasoned PantherHackers member on the event, "I've always liked the idea of hacking overnight. I believe many programmers are night owls, and the way I focus when coding overnight outperforms any of my other working routines." For the event as a whole, Ferrer adds," Overall, I had a great time, and I was able to connect with new members and see how motivated everyone was!  [Midnight Hacks was coordinated] by the Events Committee, so I want to thank them for their support and all the hard work they put into PantherHackers."
 
-(http://imgur.com/a/y42qS)
+![Work done on a White Board at MH](http://i.imgur.com/jIPo1Co.jpg)
 
 Hansa said, "MH was a really fantastic experience and a good break from all the objective-based hackathons I've been to. I want to thank Philip for being a fantastic host and helping the event go smoothly."
 
