@@ -1,7 +1,7 @@
 {  
   "author": "Kara Dees",
   "title": "3 Things You Must Know About Midnight Hacks",
-  "thumbnail" : Midnight-hacks.jpg,
+  "thumbnail" : "Midnight-hacks.jpg",
   "date": "2017-03-03T02:15:35Z",
   "tags": ["all"],
   "published": true
