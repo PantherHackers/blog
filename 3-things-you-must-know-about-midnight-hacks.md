@@ -40,4 +40,4 @@ Hansa said, "MH was a really fantastic experience and a good break from all the 
 
 Kinney concludes concisely, "This was a great event. I'm excited for the next one."
 
-### Whether you are looking to hang out or bang out your next app, Midnight Hacks is the event for you. Be on the lookout for the March Midnight Hacks. You can find out more information about this event on slack at pantherhackers.slack.com/signup
+### Whether you are looking to hang out or bang out your next app, Midnight Hacks is the event for you. Be on the lookout for the March Midnight Hacks. You can find out more information about this event on [our Slack!](https://pantherhackers.slack.com/signup)
